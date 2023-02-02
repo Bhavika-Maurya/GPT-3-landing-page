@@ -1,3 +1,22 @@
+
+# GPT-3 landing page
+
+This is the simple landing page using react.( made it to practice on my react skills) 
+
+## What I learned 
+
+ - CSS BEM model
+ - Managing react file structure for better understanding 
+ - Using of color gradients
+
+ Project Refrence "JS Mastry" 
+
+ ## Online tools 
+
+ - [Angry tools](https://angrytools.com/gradient/) for color gradients 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
