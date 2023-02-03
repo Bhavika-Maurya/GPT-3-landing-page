@@ -1,5 +1,6 @@
 
-# GPT-3 landing page
+# GPT-3 landing page 
+### [Live](https://jade-tartufo-735abc.netlify.app/)
 
 This is the simple landing page using react.( made it to practice on my react skills) 
 
